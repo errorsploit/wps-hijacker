@@ -1,0 +1,6 @@
+pywifi==1.1.12
+pywifiscan==1.0.0
+comtypes==1.4.8
+requests==2.32.2
+colorama==0.4.6
+pyfiglet~=1.0.2
