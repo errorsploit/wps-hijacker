@@ -27,13 +27,32 @@ A tool for performing brute force attacks on Wi-Fi networks using the WPS (Wi-Fi
    ```bash
    pip install -r requirements.txt
 ---
-## Usage:
-Run the tool with:
-   ```bash
-   python3 hijack-now.py
----
 ## Author:
-Developed by: Naresh
-Instagram id:
-   ```bash
-   error-sploit
+- Developed by: Naresh Kumar
+- Instagram id:
+-    ```bash
+     error_sploit
+---
+## License:
+This project is licenesd under the MIT License. See the LICENES file for details.
+---
+## Disclaimer:
+This tool is intended for educational purposes only. Unauthorized usage on networks you do not own is illegal and unethical.
+---
+### *Explanation*:
+
+1. *Header Section*:
+   - The banner image (banner.png) is referenced in the README.
+   - Replace "banner.png" with the actual path or URL of your image file.
+
+2. *Social Media Links*:
+   - Add your real social media handles in the "Author" section. Aap Instagram, Twitter, GitHub, LinkedIn ke links bhi de sakte hain.
+
+3. *Image Section*:
+   - Replace https://via.placeholder.com/800x200?text=WPS+Hijacker+Banner with the actual URL or local path of your image.
+
+4. *Customization*:
+   - Aap *image size* ya *content structure* change kar sakte hain apne project ke requirements ke hisaab se.
+
+---
+## Enjoy 😊
