@@ -30,3 +30,7 @@ Usage:
 Run the tool with:
    ```bash
    python3 hijack-now.py
+## Author:
+Developed by: Naresh
+
+               instagram = errors_ploit
