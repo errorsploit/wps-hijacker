@@ -26,11 +26,14 @@ A tool for performing brute force attacks on Wi-Fi networks using the WPS (Wi-Fi
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-Usage:
+---
+## Usage:
 Run the tool with:
    ```bash
    python3 hijack-now.py
+---
 ## Author:
 Developed by: Naresh
-
-               instagram = errors_ploit
+Instagram id:
+   ```bash
+   error-sploit
