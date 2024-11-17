@@ -1,5 +1,8 @@
 # wps-hijacker
 
+![WPS Hijacker Logo]
+(image.png)
+
 A tool to hijack WPS (Wi-Fi Protected Setup) enabled routers.
 
 # Wi-Fi WPS Default Pin Brute Force Attack
