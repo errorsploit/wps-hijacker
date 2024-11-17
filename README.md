@@ -23,3 +23,8 @@ A tool for performing brute force attacks on Wi-Fi networks using the WPS (Wi-Fi
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/errorsploit/wps-hijacker.git 
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   
+   
